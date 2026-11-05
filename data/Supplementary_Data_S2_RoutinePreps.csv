@@ -1,0 +1,135 @@
+Plasmid,Method,Culture_round,Yield_ng_per_uL,Included_in_analysis
+c1j,Opentrons + manifold,O1,107.0,yes
+c1j,Opentrons + manifold,O2,114.0,yes
+c1j,Opentrons + manifold,O3,72.0,yes
+c1j,Opentrons + manifold,O4,138.5,yes
+c1j,Opentrons + manifold,O5,85.0,yes
+c1j,Opentrons + manifold,O6,64.0,yes
+c1j,Opentrons + manifold,O7,128.0,yes
+c1j,By hand,H1,161.0,yes
+c1j,By hand,H2,150.0,yes
+c1j,By hand,H3,159.0,yes
+p10d,Opentrons + manifold,O1,86.0,no
+p10d,Opentrons + manifold,O2,310.0,no
+p10d,Opentrons + manifold,O4,103.0,no
+p10d,By hand,H1,65.0,no
+p18m,Opentrons + manifold,O1,66.0,no
+p18m,Opentrons + manifold,O2,68.6,no
+p18m,Opentrons + manifold,O4,75.2,no
+p18m,By hand,H1,43.0,no
+P1d,Opentrons + manifold,O1,174.0,yes
+P1d,Opentrons + manifold,O2,62.5,yes
+P1d,Opentrons + manifold,O4,89.0,yes
+P1d,By hand,H1,59.1,yes
+P1d,By hand,H2,144.0,yes
+P1d,By hand,H3,79.0,yes
+p2d,Opentrons + manifold,O1,118.0,no
+p2d,Opentrons + manifold,O2,29.4,no
+p2d,Opentrons + manifold,O4,147.0,no
+p2d,By hand,H1,69.0,no
+p33m,Opentrons + manifold,O1,35.0,no
+p33m,Opentrons + manifold,O4,114.0,no
+p33m,By hand,H1,44.0,no
+p34m,Opentrons + manifold,O1,58.0,no
+p34m,Opentrons + manifold,O4,74.0,no
+p34m,By hand,H1,70.0,no
+t12m,Opentrons + manifold,O1,129.0,no
+t12m,Opentrons + manifold,O2,34.0,no
+t12m,Opentrons + manifold,O3,9.0,no
+t12m,Opentrons + manifold,O4,113.0,no
+t12m,By hand,H1,24.0,no
+t13m,Opentrons + manifold,O1,52.0,no
+t13m,Opentrons + manifold,O2,69.0,no
+t13m,Opentrons + manifold,O3,30.0,no
+t13m,Opentrons + manifold,O4,74.0,no
+t13m,By hand,H1,50.0,no
+t14m,Opentrons + manifold,O1,67.0,no
+t14m,Opentrons + manifold,O2,74.0,no
+t14m,Opentrons + manifold,O3,52.0,no
+t14m,Opentrons + manifold,O4,73.0,no
+t14m,By hand,H1,132.0,no
+t16m,Opentrons + manifold,O1,51.0,no
+t16m,Opentrons + manifold,O2,107.0,no
+t16m,Opentrons + manifold,O3,16.0,no
+t16m,Opentrons + manifold,O4,126.0,no
+t16m,By hand,H1,62.0,no
+t18m,Opentrons + manifold,O1,42.0,no
+t18m,Opentrons + manifold,O2,89.0,no
+t18m,Opentrons + manifold,O3,44.0,no
+t18m,Opentrons + manifold,O4,109.0,no
+t18m,By hand,H1,23.0,no
+t1d,Opentrons + manifold,O1,206.0,yes
+t1d,Opentrons + manifold,O2,40.0,yes
+t1d,Opentrons + manifold,O3,111.0,yes
+t1d,Opentrons + manifold,O4,175.0,yes
+t1d,By hand,H1,53.0,yes
+t1d,By hand,H2,53.0,yes
+t1d,By hand,H3,64.0,yes
+t1m,Opentrons + manifold,O1,42.0,no
+t1m,Opentrons + manifold,O2,35.0,no
+t1m,Opentrons + manifold,O3,48.0,no
+t1m,Opentrons + manifold,O4,314.0,no
+t1m,By hand,H1,51.0,no
+t2m,Opentrons + manifold,O1,50.0,no
+t2m,Opentrons + manifold,O2,38.0,no
+t2m,Opentrons + manifold,O4,201.0,no
+t2m,By hand,H1,35.0,no
+u17m,Opentrons + manifold,O1,71.0,no
+u17m,Opentrons + manifold,O2,63.0,no
+u17m,Opentrons + manifold,O3,20.0,no
+u17m,Opentrons + manifold,O4,87.5,no
+u17m,By hand,H1,14.0,no
+u1d,Opentrons + manifold,O1,105.0,yes
+u1d,Opentrons + manifold,O2,63.5,yes
+u1d,Opentrons + manifold,O3,37.0,yes
+u1d,By hand,H1,65.0,yes
+u1d,By hand,H2,65.0,yes
+u1d,By hand,H3,69.0,yes
+u2d,Opentrons + manifold,O1,71.0,no
+u2d,Opentrons + manifold,O2,76.0,no
+u2d,Opentrons + manifold,O3,94.0,no
+u2d,Opentrons + manifold,O4,72.0,no
+u2d,By hand,H1,62.0,no
+u4d,Opentrons + manifold,O1,79.0,no
+u4d,Opentrons + manifold,O2,192.0,no
+u4d,Opentrons + manifold,O3,68.0,no
+u4d,By hand,H1,54.0,no
+u4m,Opentrons + manifold,O1,131.0,no
+u4m,Opentrons + manifold,O2,94.0,no
+u4m,Opentrons + manifold,O3,92.0,no
+u4m,Opentrons + manifold,O4,73.0,no
+u4m,By hand,H1,30.0,no
+u5d,Opentrons + manifold,O1,81.0,no
+u5d,Opentrons + manifold,O2,430.0,no
+u5d,Opentrons + manifold,O3,70.0,no
+u5d,Opentrons + manifold,O4,100.0,no
+u5d,By hand,H1,55.0,no
+u6d,Opentrons + manifold,O1,59.0,no
+u6d,Opentrons + manifold,O2,280.0,no
+u6d,Opentrons + manifold,O3,49.0,no
+u6d,Opentrons + manifold,O4,125.0,no
+u6d,By hand,H1,39.0,no
+u9m,Opentrons + manifold,O1,114.0,no
+u9m,Opentrons + manifold,O2,88.0,no
+u9m,Opentrons + manifold,O3,41.0,no
+u9m,By hand,H1,15.0,no
+V37m,Opentrons + manifold,O1,62.0,yes
+V37m,Opentrons + manifold,O2,216.0,yes
+V37m,Opentrons + manifold,O3,59.0,yes
+V37m,Opentrons + manifold,O4,84.0,yes
+V37m,Opentrons + manifold,O5,104.0,yes
+V37m,Opentrons + manifold,O6,148.0,yes
+V37m,Opentrons + manifold,O7,58.0,yes
+V37m,Opentrons + manifold,O8,115.0,yes
+V37m,By hand,H1,33.0,yes
+V37m,By hand,H2,58.0,yes
+V37m,By hand,H3,54.0,yes
+P1m,Opentrons + manifold,O4,70.0,no
+P3d,Opentrons + manifold,O4,77.6,no
+P4d,Opentrons + manifold,O4,74.25,no
+P4m,Opentrons + manifold,O4,166.0,no
+P5d,Opentrons + manifold,O4,94.5,no
+P61m,Opentrons + manifold,O4,135.0,no
+P6d,Opentrons + manifold,O4,92.0,no
+P8d,Opentrons + manifold,O4,100.6,no
+P9d,Opentrons + manifold,O4,90.4,no

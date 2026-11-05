@@ -1,0 +1,14 @@
+name: vacuum-manifold-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas=2.3.3
+  - numpy=2.2.6
+  - scipy=1.13.1
+  - matplotlib=3.10.7
+  - ipykernel
+  - jupyter
+  - pip
+  - pip:
+      - arcadia-pycolor==0.6.5
