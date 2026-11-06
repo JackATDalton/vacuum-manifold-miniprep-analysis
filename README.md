@@ -1,5 +1,7 @@
 # Vacuum manifold miniprep analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24008158.svg)](https://doi.org/10.5281/zenodo.24008158)
+
 Data and analysis for *An Open-Source 3D-Printed Vacuum Manifold for Automated DNA Isolation in
 the Opentrons Flex and OT-2* (Dalton, Goddard and Lugagne; HardwareX, in revision). The notebooks
 reproduce every statistic and figure in the yield-comparison section of the paper.
@@ -70,4 +72,8 @@ Code: MIT (see `LICENSE`). Data: CC BY 4.0.
 
 ## Citation
 
-If you use these data or code, please cite the paper (citation to be added on publication).
+If you use these data or code, please cite the paper (citation to be added on publication) and this archive:
+
+Dalton, J.A.T., Goddard, C. and Lugagne, J.-B. (2026). Data and analysis for: An Open-Source 3D-Printed Vacuum Manifold for Automated DNA Isolation in the Opentrons Flex and OT-2 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24008159
+
+Hardware design files: https://doi.org/10.5281/zenodo.21674774
