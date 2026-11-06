@@ -1,0 +1,15 @@
+{
+  "title": "Data and analysis for: An Open-Source 3D-Printed Vacuum Manifold for Automated DNA Isolation in the Opentrons Flex and OT-2",
+  "description": "Raw plasmid yield data and Jupyter notebooks reproducing the yield comparison in the HardwareX manuscript. Includes a controlled comparison (one culture of plasmid C4J split across 3 manual preps and 3 runs of 24 preps on the manifold) and routine-use preps of plasmids prepared by both methods. Code is MIT licensed; data are CC BY 4.0. Hardware design files are in the companion record (doi:10.5281/zenodo.21674774).",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Dalton, Jack A.T.", "affiliation": "Department of Engineering Science, University of Oxford", "orcid": "0009-0000-3095-5404"},
+    {"name": "Goddard, Caleb", "affiliation": "Department of Engineering Science, University of Oxford"},
+    {"name": "Lugagne, Jean-Baptiste", "affiliation": "Department of Engineering Science, University of Oxford", "orcid": "0000-0002-8374-6590"}
+  ],
+  "keywords": ["laboratory automation", "Opentrons", "vacuum manifold", "plasmid miniprep", "open hardware"],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.21674774", "relation": "isSupplementTo", "scheme": "doi"}
+  ]
+}
